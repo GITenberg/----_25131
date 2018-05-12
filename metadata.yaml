@@ -1,0 +1,26 @@
+_repo: '----_25131'
+_version: 0.1.0
+alternative_title: Wu Yue Chun Qiu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhao, Ye, active 40
+    alias: 趙曄
+    gutenberg_agent_id: '28428'
+    url: http://www.gutenberg.org/2009/agents/28428
+description: ''
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25131'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Warring States, 403-221 B.C.'
+- !lcc 'DS'
+title: 吳越春秋
+url: http://www.gutenberg.org/ebooks/25131
